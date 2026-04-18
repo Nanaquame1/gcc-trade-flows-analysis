@@ -1,0 +1,17 @@
+country,year,non_oil_gdp_pct,fdi_inflows_usd_bn,tourism_revenue_usd_bn,manufacturing_exports_usd_bn,key_policy_event
+Saudi Arabia,2015,41.0,8.1,8.5,6.2,Vision 2030 in planning
+Saudi Arabia,2017,43.0,1.4,9.1,7.5,Vision 2030 launched
+Saudi Arabia,2019,45.0,4.6,12.3,8.1,ARAMCO IPO
+Saudi Arabia,2020,46.0,5.5,2.1,6.8,COVID-19 tourism collapse
+Saudi Arabia,2022,50.0,7.9,27.8,10.2,Mega-projects acceleration
+Saudi Arabia,2023,52.0,9.7,37.4,11.5,Non-oil GDP hits record
+UAE,2015,69.0,11.4,11.7,26.5,Economic diversification mature
+UAE,2017,71.0,10.4,12.8,28.0,Expo 2020 preparation
+UAE,2019,72.0,14.0,15.2,30.5,Highest FDI in MENA
+UAE,2020,73.0,19.9,3.5,27.0,COVID but FDI surged
+UAE,2022,75.0,22.7,22.0,34.5,Expo 2020 legacy
+UAE,2023,77.0,30.7,24.8,37.0,Most diversified GCC economy
+Qatar,2015,48.0,1.1,3.4,4.2,World Cup infrastructure
+Qatar,2019,51.0,1.5,4.8,4.9,World Cup almost ready
+Qatar,2022,53.0,2.9,6.9,5.8,FIFA World Cup host
+Qatar,2023,54.0,5.1,7.2,6.3,Post-World Cup rebound
